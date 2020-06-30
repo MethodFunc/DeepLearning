@@ -137,4 +137,5 @@ dmypy.json
 .pytype/
 
 dataset/
+model/
 # End of https://www.toptal.com/developers/gitignore/api/python
