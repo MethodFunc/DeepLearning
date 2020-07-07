@@ -139,4 +139,5 @@ dmypy.json
 dataset/
 model/
 3. CNN/dataset/
+3. CNN/preview/
 # End of https://www.toptal.com/developers/gitignore/api/python
