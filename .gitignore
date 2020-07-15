@@ -142,4 +142,5 @@ model/
 3. CNN/preview/
 4. RNN/dataset/
 4. RNN/model/
+GAN/gan_images
 # End of https://www.toptal.com/developers/gitignore/api/python
